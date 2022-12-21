@@ -1,15 +1,9 @@
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
-#print("Hello world")
+
 #-------------------------------------------------------------------------------
-# Name:        module5
-# Purpose:
-#
-# Author:      keert
-#
+# Name:        Rock-Paper-Scissors
+# Author:      keerthana
 # Created:     21-12-2022
 # Copyright:   (c) keert 2022
-# Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
 # import random module
